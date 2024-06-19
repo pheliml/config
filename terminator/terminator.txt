@@ -1,0 +1,14 @@
+horizontal split: Crtl-Shift-o /hOr
+vertical split: Ctrl-Shift-e /vErt
+next term: Ctrl-Shift-n /Nxt
+prev term: Ctrl-Shift-p /Prev
+move focus: Alt-arrow
+new tab: Ctrl-Shift-t /Tab
+new win: Ctrl-Shift-i /wIn
+close term or tab: Ctrl-Shift-w /invert Win
+close all: Ctrl-Shift-q /Quit
+reset zoom: Ctrl-0
+toggle fullscreen: fn-F11
+
+https://github.com/gnome-terminator/terminator
+https://gnome-terminator.readthedocs.io/en/latest/
